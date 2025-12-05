@@ -1,5 +1,8 @@
 ## Hi there 👋
 Ciallo～ (∠・ω< )⌒★
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{username}"/>
+</a>
 <!--
 **brokensnow2/brokensnow2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
